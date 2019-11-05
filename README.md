@@ -1,5 +1,7 @@
 A sample project
 =================
 
-add some lines
+I have changed some contents of the file.
+
+
 
